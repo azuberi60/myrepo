@@ -1,13 +1,24 @@
 <!DOCTYPE html>
 <html>
 <body>
+<<<<<<< HEAD
 
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
 <link rel="stylesheet" href="styles.css
+=======
+<h1>Welcome to the <strong>
+
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+>>>>>>> design
 <p style="background-color:Tomato;">
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 </p>
+<<<<<<< HEAD
 
 </body>
+=======
+</body>
+<h1>V6</h1>
+>>>>>>> design
 </html>
